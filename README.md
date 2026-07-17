@@ -1,4 +1,4 @@
-<h1 align="center">🔗 URL Shortener App</h1>
+<h1 align="center">🔗 URL Shortener </h1>
 
 <p align="center">
 A modern and responsive <b>URL Shortener</b> built with the <b>MERN Stack</b>. <br>
